@@ -1,0 +1,1 @@
+# YYA.Blog.Mermaid
